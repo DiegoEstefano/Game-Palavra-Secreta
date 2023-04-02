@@ -60,7 +60,7 @@ input:focus {
     }
     .letter, .blankSquare {
         width: 60px;
-        height: 30px;
+        height: 60px;
         font-size: 1.5rem;
     }
 }
