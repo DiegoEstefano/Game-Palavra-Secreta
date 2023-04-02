@@ -52,3 +52,15 @@
 input:focus {
     outline: 0;
 }
+
+@media (max-width: 600px){
+    .wordContainer {
+        max-width: 80vw;
+        margin: 0 auto;
+    }
+    .letter, .blankSquare {
+        width: 60px;
+        height: 30px;
+        font-size: 1.5rem;
+    }
+}
